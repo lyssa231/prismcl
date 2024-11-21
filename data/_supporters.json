@@ -1,8 +1,16 @@
 [
     {
-        nointernet__,
-        pinkyvanes,
-        spooxer
+        "role": "helper",
+        "members": [
+            {
+                "name": "nointernet__"
+            },
+            {
+                "name": "pinkyvanes"
+            },
+            {
+                "name": "spooxer"
+            }
     }
 ]
 
