@@ -3,30 +3,30 @@
         "role": "owner",
         "members": [
             {
-                "name": "YeahhColix",
-                "link": "https://www.youtube.com/@YeahhColix"
+                "name": "sierraze",
+                "link": "https://discordapp.com/users/1068487051923689532"
             }
         ]
     },
     {
-        "role": "coowner",
+        "role": "",
         "members": [
             {
-                "name": "Elias",
-                "link": "https://www.youtube.com/@iEliias"
+                "name": "",
+                "link": ""
             }
         ]
     },
     {
-        "role": "admin",
+        "role": "",
         "members": [
             {
-                "name": "Benjamin",
-                "link": "https://youtube.com/@benjaminishuman"
+                "name": "",
+                "link": ""
             },
             {
-                "name": "This is still from the PrismGDPS demonlist",
-                "link": "https://discord.com/users/1192260804892950670/"
+                "name": "",
+                "link": ""
             }
         ]
     }
