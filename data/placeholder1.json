@@ -1,0 +1,24 @@
+{
+	"id": 6969,
+	"name": "this is a placeholder lol",
+	"author": "very sigma",
+	"creators": [],
+	"verifier": "verifier yes",
+	"verification": "insert yt vid here.",
+	"percentToQualify": 420,
+	"password": "Free Copy",
+	"records": [
+		{
+			"user": "skibidi rizzler 480",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "ohio sigma 420",
+			"link": "https://discord.com/app",
+			"percent": 42069,
+			"hz": 6969
+		}
+	]
+    }
