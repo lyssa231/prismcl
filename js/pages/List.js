@@ -118,48 +118,38 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        First, get the "List Ping" role in the "Channels & Roles" tab. Now, go to the #submissions channel and submit your record.
+                        Click on the form button next to the Discord button and fill out the form.
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
                         When submitting your record, please ensure that it complies with the following guidelines:
                     </p>
                     <p>
-                        - Your recording is a complete playthrough of the level from 0-100 without any cuts (if there are cuts in your video, please include an uncut raw footage)
+                        - The verification/completion video must be 0-100 with no cuts. You must include rhe previous few death attempts, and if the level is completed on first attempt, footage of opening up the GDPS is also needed.
                     </p>
                      <p>
-                        - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
-                    </p>
-
-                    <p>
-                        - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
+                        - Levels that are top 20 in the list needs clicks for the whole video. (mobile is also included)
                     </p>
                     <p>
-                        - The record has been achieved without using a secret way or a bugged route
+                        - The verification/completion must be done on the same level as the one submitted on the list, same ID (no modifications).
                     </p>
                     <p>
-                        - Cheat Indicator is required if you are using a mod menu that supports one, like Megahack v8.
+                        - Secret ways, bugged routes or cheating is obviously not allowed.
                     </p>
                     <p>
-                        - End stats (The whole box must appear for at least one frame)
+                        - Cheat Indicator, CPS, TPS/FPS Counter is required if you are using a mod menu such as MHv8.
                     </p>
                     <p>
-                        - FPS/TPS counter is required on 2.1 GDPS up to 360 fps/tps
+                        - Physics bypass or legacy physics is not allowed.
                     </p>
                     <p>
-                        - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
-                    </p>
-                    <p>
-                        - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
-                    </p>
-                    <p>
-                        - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
+                        - The end stat box must be viewable on the screen for atleast a second.
                     </p>
                     <p>
                         - You always need handcam for every level that is listed as "(Solo)" on the list.
                     </p>
                     <p>
-                        - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
+                        - Refer to <a href="https://docs.google.com/spreadsheets/d/1SIWiG3HTlKbBxMPCAw-Wo5D2MORXXmV3kGKozE7Ep48/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
                     </p>
                     <h3>> Why was my record denied?</h3>
                     <p>
